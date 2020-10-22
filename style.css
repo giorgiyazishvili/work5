@@ -1,0 +1,169 @@
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.main {
+    display: flex;
+}
+
+.html {
+    height: 40px;
+    margin-top: 5px;
+}
+
+.navtext {
+    font-size: 30px;
+    margin-left: 10px;
+    color: blue;
+}
+
+.navtext:hover {
+    color: green;
+}
+
+.navbar-ul {
+    display: flex;
+}
+
+.navbar-li {
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+.line {
+    width: 1px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: blue;
+}
+
+.icon {
+    margin-top: 5px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.google {
+    margin-left: 100px;
+}
+
+.section {
+    background-color: rgb(212, 212, 212);
+    margin-top: 20px;
+}
+
+.html2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.section2 {
+    padding: 10px;
+    background-color: rgb(61, 61, 248);
+    border-top: 1px solid black;
+}
+
+h1 {
+    color: white;
+    padding-top: 10px;
+}
+
+.box {
+    margin-top: 10px;
+    margin-left: 5px;
+    display: inline-block;
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.box2 {
+    margin-left: 150px;
+    display: inline-block;
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+p {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.section3 {
+    padding: 50px;
+    background-color: rgb(214, 214, 214);
+    border-top: 1px solid black;
+}
+
+h2 {
+    color: black;
+    padding-top: 10px;
+}
+
+.gio {
+    margin-top: 30px;
+    height: 250px;
+    padding-left: 35px;
+}
+
+.gio:hover {
+    box-shadow: 5px 0 50px green;
+}
+
+.section4 {
+    padding: 50px;
+    background-color: rgb(173, 173, 173);
+    border-top: 1px solid black;
+}
+
+h3 {
+    color: white;
+    padding-top: 10px;
+}
+
+.box3 {
+    margin-top: 10px;
+    margin-left: 5px;
+    display: inline-block;
+    width: 500px;
+    height: 200px;
+    background-color: rgb(223, 219, 219);
+    border: 1px solid black;
+}
+
+.box4 {
+    margin-left: 150px;
+    display: inline-block;
+    width: 500px;
+    height: 200px;
+    background-color: rgb(223, 219, 219);
+    border: 1px solid black;
+}
+
+h4 {
+    margin-left: 10px;
+    margin-top: 10px;
+    color: blue;
+}
+
+.boxes {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+h5 {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+a {
+    margin-top: 105px;
+    padding-right: 20px;
+}
